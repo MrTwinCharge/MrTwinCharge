@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤘 I’m a student at the University of Texas at Austin<br>👯 I’m looking to collaborate on ML projects<br>🌱 I’m currently learning openCV, Convolutional Neural Networks
+🤘 I’m a student at the University of Texas at Austin<br>👯 I’m looking to collaborate on ML projects<br>🌱 I’m currently learning openCV, openGL, and Convolutional Neural Networks <br> ✏️ I'm working on my personal website and OpenGL + ML projects
 
 
 ## 🌐 Socials:
