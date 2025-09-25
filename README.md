@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤘 I’m a student at the University of Texas at Austin majoring in Computer Engineering<br>👯 I’m looking to collaborate on ML projects<br>🌱 I’m currently learning openCV, openGL, and Convolutional Neural Networks <br> ✏️ I'm working on my personal website and OpenGL + ML projects
+🤘 I’m a student at the University of Texas at Austin majoring in Computer Engineering<br>👯 I’m looking to collaborate on ML projects<br>🌱 I’m currently learning Vulkan, CUDA, and SystemVerilog <br> ✏️ I'm working on a custom 64 bit RISC-V core augmented with ML ISA and Hardware extensions.
 
 
 ## 🌐 Socials:
